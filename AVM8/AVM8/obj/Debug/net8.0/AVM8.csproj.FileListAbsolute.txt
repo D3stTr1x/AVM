@@ -1,0 +1,15 @@
+C:\Users\ЗС\source\repos\AVM8\AVM8\bin\Debug\net8.0\AVM8.exe
+C:\Users\ЗС\source\repos\AVM8\AVM8\bin\Debug\net8.0\AVM8.deps.json
+C:\Users\ЗС\source\repos\AVM8\AVM8\bin\Debug\net8.0\AVM8.runtimeconfig.json
+C:\Users\ЗС\source\repos\AVM8\AVM8\bin\Debug\net8.0\AVM8.dll
+C:\Users\ЗС\source\repos\AVM8\AVM8\bin\Debug\net8.0\AVM8.pdb
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.sourcelink.json
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.dll
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\refint\AVM8.dll
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.pdb
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\AVM8.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\AVM8\AVM8\obj\Debug\net8.0\ref\AVM8.dll
